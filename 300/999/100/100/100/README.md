@@ -25,7 +25,7 @@
 
 | Persona | Challenges & Pain Points | Link |
 | -- | -- | -- |
-| Senior DevOps Engineer: Sarah Chen | | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
+| Senior DevOps Engineer: Sarah Chen | **Technical Challenges:**<br/>- Keeping up with rapidly evolving cloud services and tools<br/>- Managing technical debt in legacy infrastructure<br/>- Balancing automation investments with immediate operational needs<br/>- Handling complex multi-cloud or hybrid cloud environments<br/>- Dealing with inconsistencies between development and production environments<br/><br/>**Organizational Challenges:**<br/>- Bridging the gap between development and operations teams<br/>- Promoting DevOps culture in traditional organizations<br/>- Balancing feature velocity with stability and security<br/>- Justifying infrastructure investments to non-technical stakeholders<br/>- Managing expectations during incidents and outages<br/><br/>**Personal Challenges:**<br/>- Alert fatigue and burnout from on-call responsibilities<br/>- Constantly learning new technologies and tools<br/>- Balancing tactical firefighting with strategic improvements<br/>- Communicating complex technical concepts to non-technical stakeholders<br/>- Limited visibility into application code and business requirements | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
 | Junior DevOps Engineer: Alex Rivera| | [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx) |
 
 ## 500 - Professional jargon and communication style
