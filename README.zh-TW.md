@@ -9,14 +9,14 @@
 -   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遙測](./TELEMETRY.md)
 
-**Executive Summary**
+**執行摘要**
 
 文字
 
@@ -24,7 +24,7 @@
 
 ## 100-簡介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200-要求
 
