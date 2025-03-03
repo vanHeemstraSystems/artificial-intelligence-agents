@@ -2,7 +2,7 @@
 
 ## 100 - Senior devops Engineer: Sarah Chen
 
-We keep this Persona in UXPressia, see [Senior devops Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3).
+We keep this Persona in UXPressia, see [Senior Devops Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3).
 
 ## 200 - Junior DevOps Engineer: Alex Rivera
 
