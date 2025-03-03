@@ -6,7 +6,7 @@ Agents d'intelligence artificielle
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossaire](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Trappe](./HATCH.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
