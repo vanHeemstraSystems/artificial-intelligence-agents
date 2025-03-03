@@ -8,7 +8,7 @@ Agents d'intelligence artificielle
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Trappe](./HATCH.md)
--   [Hôtes](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Sous-homme](./PODMAN.md)
@@ -20,7 +20,7 @@ Agents d'intelligence artificielle
 
 Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Generated with [Rytr](https://app.rytr.me)
 
 ## 100 - Introduction
 
