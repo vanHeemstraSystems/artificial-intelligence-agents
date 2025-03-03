@@ -6,7 +6,7 @@ Agents d'intelligence artificielle
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossaire](./GLOSSARY.md)
 -   [Trappe](./HATCH.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
@@ -20,11 +20,11 @@ Agents d'intelligence artificielle
 
 Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
-Voir[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - exigences
 
