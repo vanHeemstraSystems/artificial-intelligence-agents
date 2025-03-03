@@ -1,6 +1,6 @@
-artificial-intelligence-agents
+आर्टिफिशियल-इंटेलिजेंस-एजेंट्स
 
-# Artificial Intelligence Agents
+# कृत्रिम बुद्धिमत्ता एजेंट
 
 > स्लगलाइन
 
@@ -32,7 +32,7 @@ artificial-intelligence-agents
 
 ## 300 - हमारे आवेदन का निर्माण
 
-देखना[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
