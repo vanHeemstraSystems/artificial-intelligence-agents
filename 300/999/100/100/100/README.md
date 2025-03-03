@@ -18,19 +18,19 @@
 
 | Persona | Daily Tasks & Responsibilities | Link |
 | -- | -- | -- |
-| Senior DevOps Engineer: Sarah Chen | | |
-| Junior DevOps Engineer: Alex Rivera| | |
+| Senior DevOps Engineer: Sarah Chen | **Infrastructure Management:**<br/>- Maintain and scale Kubernetes clusters across multiple environments<br/>- Troubleshoot infrastructure issues and performance bottlenecks<br/>- Implement and maintain infrastructure as code templates<br/>- Optimize cloud resource utilization and costs<br/><br/>**CI/CD Pipeline Management:**<br/>- Maintain and improve deployment pipelines<br/>- Set up and configure build agents and runners<br/>- Create and maintain Docker images for application deployments<br/>- Implement branching strategies and deployment workflows<br/><br/>**Automation:**<br/>- Develop scripts to automate repetitive operational tasks<br/>- Create self-service tools for developers to provision resources<br/>- Implement auto-scaling and self-healing mechanisms<br/>- Set up automated testing for infrastructure changes<br/><br/>**Security and Compliance:**<br/>- Implement security best practices for cloud infrastructure<br/>- Manage secrets and credentials using HashiCorp Vault<br/>- Set up and maintain security scanning in CI/CD pipelines<br/>- Ensure compliance with industry standards (SOC 2, ISO 27001)<br/><br/>**Monitoring and Incident Response:**<br/>- Configure and maintain monitoring and alerting systems<br/>- Develop and implement incident response procedures<br/>- Participate in on-call rotations<br/>- Conduct post-mortem analyses and implement improvements<br/><br/>**Documentation and Knowledge Sharing:**<br/>- Document system architecture and operational procedures<br/>- Create runbooks for common issues and troubleshooting<br/>- Maintain internal wikis and knowledge bases<br/>- Mentor junior DevOps engineers and developers | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
+| Junior DevOps Engineer: Alex Rivera| | [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx) |
 
 ## 400 - Typical challenges and pain points
 
 | Persona | Challenges & Pain Points | Link |
 | -- | -- | -- |
-| Senior DevOps Engineer: Sarah Chen | | |
-| Junior DevOps Engineer: Alex Rivera| | |
+| Senior DevOps Engineer: Sarah Chen | | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
+| Junior DevOps Engineer: Alex Rivera| | [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx) |
 
 ## 500 - Professional jargon and communication style
 
 | Persona | Jargon & Communication Style | Link |
 | -- | -- | -- |
-| Senior DevOps Engineer: Sarah Chen | | |
-| Junior DevOps Engineer: Alex Rivera| | |
+| Senior DevOps Engineer: Sarah Chen | | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
+| Junior DevOps Engineer: Alex Rivera| | [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx) |
