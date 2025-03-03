@@ -7,7 +7,7 @@ kunstmatige intelligentie-agenten
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
--   [Klep](./HATCH.md)
+-   [Hatch](./HATCH.md)
 -   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
@@ -20,7 +20,7 @@ kunstmatige intelligentie-agenten
 
 Tekst
 
-Generated with [Ritr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
