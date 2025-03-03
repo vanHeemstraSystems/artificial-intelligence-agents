@@ -1,13 +1,13 @@
-künstliche Intelligenz-Agents
+artificial-intelligence-agents
 
-# Künstliche Intelligenz -Agenten
+# Artificial Intelligence Agents
 
 > Slugline
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [NX](./NX.md)
@@ -24,7 +24,7 @@ Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
 ## 200 - Anforderungen
 
