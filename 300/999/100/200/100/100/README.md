@@ -1,13 +1,17 @@
 # 100 - Prepare Your Training Materials
 
-## 100 - Organize your persona document in a structured markdown or text file
+## 100 - Organize Your Persona Document in a Structured Markdown or Text File
 
-See [README.md](./100/README.md)
+See [README.md](./100/README.md) == WE ARE HERE ==
 
-## 200 - Compile interview transcripts into a dataset format (CSV or JSON)
+## 200 - Compile Interview Transcripts into a Dataset Format (CSV or JSON)
 
+TO DO
 
-## 300 - Create scenario-based examples with both questions and ideal responses
+## 300 - Create Scenario-based Examples with both Questions and Ideal Responses
 
+TO DO
 
-## 400 - Develop technical knowledge base documents covering key DevOps domains
+## 400 - Develop Technical Knowledge Base Documents Covering Key DevOps Domains
+
+TO DO
