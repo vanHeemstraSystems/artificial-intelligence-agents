@@ -1,6 +1,6 @@
-repository-name
+人工智能代理
 
-# 存儲庫名稱
+# 人工智能代理
 
 > 板條
 
@@ -26,9 +26,9 @@ repository-name
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200-要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300-構建我們的應用程序
 
