@@ -1,6 +1,6 @@
-repository-naam
+kunstmatige intelligentie-agenten
 
-# Repository -naam
+# Artificial Intelligence Agents
 
 > Sluglijn
 
