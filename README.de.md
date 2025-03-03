@@ -1,6 +1,6 @@
-artificial-intelligence-agents
+künstliche Intelligenz-Agents
 
-# Artificial Intelligence Agents
+# Künstliche Intelligenz -Agenten
 
 > Slugline
 
