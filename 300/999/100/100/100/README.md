@@ -39,14 +39,14 @@
 
 | Persona | Tools & Resources | Link |
 | -- | -- | -- |
-| Senior DevOps Engineer: Sarah Chen | | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
+| Senior DevOps Engineer: Sarah Chen | TO DO | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
 | Junior DevOps Engineer: Alex Rivera| **Primary Tools:**<br/>- VS Code with DevOps extensions<br/>- Git and GitHub/GitLab<br/>- AWS Console and CLI<br/>- Slack for team communication<br/>- JIRA for ticket tracking<br/>- Internal wikis and documentation<br/><br/>**Learning Resources:**<br/>- Online courses (Udemy, A Cloud Guru, Pluralsight)<br/>- Documentation and tutorials<br/>- Team's internal knowledge base<br/>- Stack Overflow and GitHub issues<br/>- YouTube tutorials and conference talks<br/>- DevOps community forums and Discord servers| [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx)|
 
 ## 700 - Professional Goals & Motivations
 
 | Persona | Professional Goals & Motivations | Link |
 | -- | -- | -- |
-| Senior DevOps Engineer: Sarah Chen | | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
+| Senior DevOps Engineer: Sarah Chen | **Short-term Goals:**<br/>- Implement a full GitOps workflow for all environments<br/>- Reduce mean time to recovery (MTTR) for critical incidents<br/>- Increase test coverage for infrastructure code<br/>- Automate compliance reporting for audit requirements<br/><br/>**Long-term Goals:**<br/>- Move toward a platform engineering approach<br/>- Implement zero-trust security architecture<br/>- Mentor and develop junior team members<br/>- Reduce operational overhead through increased automation<br/><br/>**Motivations:**<br/>- Building reliable, scalable systems<br/>- Solving complex technical challenges<br/>- Reducing repetitive manual work through automation<br/>- Learning and implementing cutting-edge technologies<br/>- Creating visible impact on development velocity and system stability| [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
 | Junior DevOps Engineer: Alex Rivera| | [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx)|
 
 ## 800 - Growth Areas & Development Path
