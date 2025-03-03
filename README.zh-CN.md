@@ -10,7 +10,7 @@
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
--   [Nx](./NX.md)
+-   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
@@ -20,7 +20,7 @@
 
 文本
 
-生成[Rytr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-简介
 
@@ -34,6 +34,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400-结论
 
 看[README.md](./400/README.md)
