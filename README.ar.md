@@ -1,6 +1,6 @@
-اسم المستودع
+وكيلات الاصطناعية
 
-# اسم المستودع
+# Artificial Intelligence Agents
 
 > Slugline
 
