@@ -8,7 +8,7 @@ kunstmatige intelligentie-agenten
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Klep](./HATCH.md)
--   [Gastheren](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Subman](./PODMAN.md)
