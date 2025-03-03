@@ -1,4 +1,4 @@
-artificial-intelligence-agents
+kunstmatige intelligentie-agenten
 
 # Kunstmatige intelligentie -agenten
 
