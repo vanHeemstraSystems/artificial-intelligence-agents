@@ -1,6 +1,6 @@
 kunstmatige intelligentie-agenten
 
-# Artificial Intelligence Agents
+# Kunstmatige intelligentie -agenten
 
 > Sluglijn
 
