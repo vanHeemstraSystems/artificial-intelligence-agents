@@ -4,7 +4,7 @@
 
 > स्लगलाइन
 
--   [DNS](./DNS.md)
+-   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [हैच](./HATCH.md)
@@ -24,7 +24,7 @@
 
 ## 100 - परिचय
 
-See [README.md](./100/README.md)
+देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
