@@ -8,15 +8,15 @@ künstliche Intelligenz-Agents
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
--   [Hosts](./HOSTS.md)
+-   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [NX](./NX.md)
--   [Podman](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
@@ -36,4 +36,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
-See [README.md](./400/README.md)
+Sehen[README.md](./400/README.md)
