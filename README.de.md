@@ -1,4 +1,4 @@
-artificial-intelligence-agents
+künstliche Intelligenz-Agents
 
 # Künstliche Intelligenz -Agenten
 
@@ -8,15 +8,15 @@ artificial-intelligence-agents
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
--   [Gastgeber](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [NX](./NX.md)
--   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Podman](./PODMAN.md)
+-   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
@@ -36,4 +36,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
-Sehen[README.md](./400/README.md)
+See [README.md](./400/README.md)
