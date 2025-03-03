@@ -9,7 +9,7 @@
 -   [शब्दकोष](./GLOSSARY.md)
 -   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
--   [इमेजिस](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [नोकदार](./NX.md)
 -   [सबमैन](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
@@ -20,13 +20,13 @@
 
 मूलपाठ
 
-Generated with [रिट्र](https://app.rytr.me)
+के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
