@@ -18,15 +18,15 @@ Agents d'intelligence artificielle
 
 **Résumé exécutif**
 
-Texte
+Text
 
 Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
-## 200 - exigences
+## 200 - Requirements
 
 Voir[README.md](./200/README.md)
 
