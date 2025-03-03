@@ -1,6 +1,6 @@
 kunstmatige intelligentie-agenten
 
-# Artificial Intelligence Agents
+# Kunstmatige intelligentie -agenten
 
 > Sluglijn
 
@@ -22,7 +22,7 @@ Tekst
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
