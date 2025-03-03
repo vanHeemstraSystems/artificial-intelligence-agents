@@ -1,6 +1,6 @@
-Repository-Namen
+artificial-intelligence-agents
 
-# Repository -Name
+# Artificial Intelligence Agents
 
 > Slugline
 
