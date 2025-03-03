@@ -1,4 +1,4 @@
-künstliche Intelligenz-Agents
+artificial-intelligence-agents
 
 # Künstliche Intelligenz -Agenten
 
@@ -10,9 +10,9 @@ künstliche Intelligenz-Agents
 -   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Nx](./NX.md)
+-   [NX](./NX.md)
 -   [Subman](./PODMAN.md)
--   [Referenzen](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
@@ -20,7 +20,7 @@ künstliche Intelligenz-Agents
 
 Text
 
-Erzeugt mit[Rytr](https://app.rytr.me)
+Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
@@ -32,7 +32,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 - Aufbau unserer Bewerbung
 
-See [README.md](./300/README.md)
+Sehen[README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
