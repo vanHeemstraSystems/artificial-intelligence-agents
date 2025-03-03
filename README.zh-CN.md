@@ -14,19 +14,19 @@
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
--   [遥测](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **执行摘要**
 
 文本
 
-生成[ritr](https://app.rytr.me)
+Generated with [ritr](https://app.rytr.me)
 
 ## 100-简介
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200-要求
 
 看[README.md](./200/README.md)
 
