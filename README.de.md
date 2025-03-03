@@ -9,7 +9,7 @@ künstliche Intelligenz-Agents
 -   [Glossar](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Bilder](./IMAGES.md)
 -   [NX](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
@@ -32,7 +32,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 - Aufbau unserer Bewerbung
 
-Sehen[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
