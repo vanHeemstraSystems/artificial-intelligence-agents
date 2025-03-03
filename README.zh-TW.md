@@ -9,7 +9,7 @@
 -   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
--   [圖像](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
@@ -20,7 +20,7 @@
 
 文字
 
-生成[Rytr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-簡介
 
@@ -36,4 +36,4 @@
 
 ## 400-結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
