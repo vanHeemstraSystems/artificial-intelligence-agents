@@ -1,4 +1,4 @@
-人工智能代理
+artificial-intelligence-agents
 
 # 人工智能代理
 
@@ -9,7 +9,7 @@
 -   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
@@ -36,4 +36,4 @@
 
 ## 400-結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
