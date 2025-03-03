@@ -1,4 +1,4 @@
-# 100 - Organize your persona document in a structured markdown or text file
+# 100 - Organize Your Persona Document in a Structured Markdown or Text File
 
 ## 100 - Senior devops Engineer: Sarah Chen
 
