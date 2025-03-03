@@ -2,14 +2,14 @@ kunstmatige intelligentie-agenten
 
 # Kunstmatige intelligentie -agenten
 
-> Slugline
+> Sluglijn
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Klep](./HATCH.md)
 -   [Gastheren](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
@@ -20,7 +20,7 @@ kunstmatige intelligentie-agenten
 
 Tekst
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
@@ -30,9 +30,9 @@ Zien[README.md](./100/README.md)
 
 Zien[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - onze applicatie bouwen
 
-See [README.md](./300/README.md)
+Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
