@@ -20,11 +20,11 @@ Agents d'intelligence artificielle
 
 Texte
 
-Generated with [Ritr](https://app.rytr.me)
+Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - exigences
 
