@@ -1,13 +1,13 @@
 وكيلات الاصطناعية
 
-# Artificial Intelligence Agents
+# وكلاء الذكاء الاصطناعي
 
 > Slugline
 
 -   [DNS](./DNS.md)
--   [الوثائق](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
--   [فتحة](./HATCH.md)
+-   [Hatch](./HATCH.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [NX](./NX.md)
@@ -30,10 +30,10 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 - بناء تطبيقنا
+## 300 - Building Our Application
 
-يرى[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - الخلاصة
 
-يرى[README.md](./400/README.md)
+See [README.md](./400/README.md)
