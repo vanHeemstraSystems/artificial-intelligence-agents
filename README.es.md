@@ -1,4 +1,4 @@
-artificial-intelligence-agents
+signo de inteligencia artificial
 
 # Agentes de inteligencia artificial
 
