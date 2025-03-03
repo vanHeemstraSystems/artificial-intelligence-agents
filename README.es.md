@@ -1,6 +1,6 @@
 signo de inteligencia artificial
 
-# Agentes de inteligencia artificial
+# Artificial Intelligence Agents
 
 > Línea de babosa
 
