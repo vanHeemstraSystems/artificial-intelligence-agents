@@ -1,6 +1,6 @@
 Agents d'intelligence artificielle
 
-# Agents d'intelligence artificielle
+# Artificial Intelligence Agents
 
 > Lisc
 
