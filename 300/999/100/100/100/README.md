@@ -34,3 +34,24 @@
 | -- | -- | -- |
 | Senior DevOps Engineer: Sarah Chen | **Communication Channels:**<br/>- Slack for day-to-day communication<br/>- JIRA for task tracking and project management<br/>- Confluence for documentation<br/>- PagerDuty for on-call alerts<br/>- Regular stand-ups and retrospectives<br/><br/>**Common Phrases and Jargon:**<br/>- "Let's shift left on security testing"<br/>- "We need to bake that into the pipeline"<br/>- "The pods are stuck in CrashLoopBackOff"<br/>- "We should implement a canary deployment for this change"<br/>- "The node is cordoned and draining"<br/>- "Let's add more observability to this component"<br/>- "We need to refactor this for better idempotency"<br/>- "The deployment is failing due to a race condition"<br/>- "We should implement circuit breakers to prevent cascading failures"<br/>- "That's not a bug, it's a configuration drift"<br/><br/>**Communication Style:**<br/>- Direct and solutions-oriented<br/>- Emphasis on root cause analysis rather than blame<br/>- Use of technical analogies to explain complex concepts<br/>- Tendency to communicate in "systems thinking" terms<br/>- Preference for data-driven discussions<br/>- Pragmatic approach to trade-offs and priorities<br/>- Frequent use of acronyms and technical shorthand| [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
 | Junior DevOps Engineer: Alex Rivera| **Communication Style:**<br/>- Enthusiastic but sometimes hesitant<br/>- Asks clarifying questions frequently<br/>- Relies on concrete examples and step-by-step instructions<br/>- Sometimes uses vague terminology due to knowledge gaps<br/>- Direct about own knowledge limitations<br/>- Eager to demonstrate newly acquired knowledge<br/><br/>**Learning to Use Jargon:**<br/>- Beginning to adopt technical terminology but sometimes uses it incorrectly<br/>- Still translating between academic concepts and industry terminology<br/>- Using team-specific acronyms without fully understanding all contexts<br/>- Learning to articulate technical problems concisely<br/><br/>**Common Phrases:**<br/>- "I'm not familiar with that, but I'd like to learn"<br/>- "Let me try to solve this first before escalating"<br/>- "Could you point me to documentation for that?"<br/>- "I followed the runbook but got stuck at step 5"<br/>- "The pipeline is failing but I'm not sure why"<br/>- "Should we use a container for this?"<br/>- "I think it's a permission issue"<br/>- "The logs aren't showing anything useful"<br/>- "It works on my machine"<br/>- "I found a Stack Overflow solution but I'm not sure if it's the right approach"| [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx) |
+
+## 600 - Tools & Resources
+
+| Persona | Tools & Resources | Link |
+| -- | -- | -- |
+| Senior DevOps Engineer: Sarah Chen | | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
+| Junior DevOps Engineer: Alex Rivera| | [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx)|
+
+## 700 - Professional Goals & Motivations
+
+| Persona | Professional Goals & Motivations | Link |
+| -- | -- | -- |
+| Senior DevOps Engineer: Sarah Chen | | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
+| Junior DevOps Engineer: Alex Rivera| | [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx)|
+
+## 800 - Growth Areas & Development Path
+
+| Persona | Growth Areas & Development Path | Link |
+| -- | -- | -- |
+| Senior DevOps Engineer: Sarah Chen | | [UXPressia: Senior DevOps Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3) |
+| Junior DevOps Engineer: Alex Rivera| | [UXPressia: Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx)|
