@@ -4,6 +4,10 @@
 
 We keep this Persona in UXPressia, see [Senior Devops Engineer: Sarah Chen](https://uxpressia.com/w/WhFzF/p/kXmv3).
 
+![Image](https://github.com/user-attachments/assets/bb391f9e-d6b8-42b4-9cb3-72f612cb48a5)
+
 ## 200 - Junior DevOps Engineer: Alex Rivera
 
 We keep this Persona in UXPressia, see [Junior DevOps Engineer: Alex Rivera](https://uxpressia.com/w/WhFzF/p/WYIlx).
+
+![Image](https://github.com/user-attachments/assets/84338b2c-eae1-4979-9237-62a6b02c3f09)
