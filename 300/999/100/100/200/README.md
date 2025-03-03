@@ -1,4 +1,4 @@
-# 200 - **Use real DevOps interview transcripts** as training material:
+# 200 - Use real DevOps interview transcripts as training material
 
 ## 100 - Conduct interviews with actual DevOps engineers
 

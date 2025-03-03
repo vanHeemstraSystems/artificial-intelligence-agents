@@ -2,7 +2,7 @@
 
 ## 100 - Organize your persona document in a structured markdown or text file
 
-
+See [README.md](./100/README.md)
 
 ## 200 - Compile interview transcripts into a dataset format (CSV or JSON)
 
