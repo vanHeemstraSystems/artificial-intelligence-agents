@@ -10,6 +10,6 @@
    - Configure authentication with your API key
 
 3. **Configure prompt engineering**:
-   - Create a system prompt that includes your persona details: It is suggested to use [ScrapeGraphAI Integrations](https://www.activepieces.com/pieces/scrapegrapghai) for scraping the Persona from [UXPressia](https://uxpressia.com) where we store our Personas in combination with [ActivePieces](https://www.activepieces.com/).
+   - Create a system prompt that includes your persona details: It is suggested to use [ScrapeGraphAI Integrations](https://www.activepieces.com/pieces/scrapegrapghai) for scraping the Persona from [UXPressia](https://uxpressia.com) where we store our Personas in combination with [ActivePieces](https://www.activepieces.com/). See [ScrapeGraphAI - Smartscraper API endpoint](https://youtu.be/PV4UrsnBjGI).
    - Use the "Few-shot learning" approach by including example Q&As
    - Structure the prompt with clear delimiters between context and examples
