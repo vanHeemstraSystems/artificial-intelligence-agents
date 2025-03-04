@@ -12,13 +12,13 @@ kunstmatige intelligentie-agenten
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Subman](./PODMAN.md)
--   [Referenties](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
 **Uitvoerende samenvatting**
 
-Tekst
+Text
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
