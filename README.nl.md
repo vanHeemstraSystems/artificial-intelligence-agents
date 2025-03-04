@@ -1,4 +1,4 @@
-kunstmatige intelligentie-agenten
+artificial-intelligence-agents
 
 # Kunstmatige intelligentie -agenten
 
@@ -14,7 +14,7 @@ kunstmatige intelligentie-agenten
 -   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Uitvoerende samenvatting**
 
@@ -30,7 +30,7 @@ Zien[README.md](./100/README.md)
 
 Zien[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 
