@@ -1,19 +1,19 @@
-artificial-intelligence-agents
+signo de inteligencia artificial
 
 # Agentes de inteligencia artificial
 
 > Línea de babosa
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [Escotilla](./HATCH.md)
 -   [Anfitriones](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Imágenes](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Submario](./PODMAN.md)
--   [References](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [Referencias](./REFERENCES.md)
+-   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
