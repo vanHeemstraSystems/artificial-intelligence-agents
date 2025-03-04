@@ -2,7 +2,7 @@ Agents d'intelligence artificielle
 
 # Agents d'intelligence artificielle
 
-> Slugline
+> Lisc
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -12,7 +12,7 @@ Agents d'intelligence artificielle
 -   [Images](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Sous-homme](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
@@ -20,7 +20,7 @@ Agents d'intelligence artificielle
 
 Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
