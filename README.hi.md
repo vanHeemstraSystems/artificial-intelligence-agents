@@ -1,6 +1,6 @@
 आर्टिफिशियल-इंटेलिजेंस-एजेंट्स
 
-# कृत्रिम बुद्धिमत्ता एजेंट
+# Artificial Intelligence Agents
 
 > स्लगलाइन
 
@@ -8,7 +8,7 @@
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [हैच](./HATCH.md)
--   [मेजबान](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
 -   [सबमैन](./PODMAN.md)
@@ -34,6 +34,6 @@
 
 देखना[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - निष्कर्ष
 
 देखना[README.md](./400/README.md)
