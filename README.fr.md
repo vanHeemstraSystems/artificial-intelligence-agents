@@ -1,6 +1,6 @@
 Agents d'intelligence artificielle
 
-# Artificial Intelligence Agents
+# Agents d'intelligence artificielle
 
 > Lisc
 
@@ -16,24 +16,24 @@ Agents d'intelligence artificielle
 -   [Exigences](./REQUIREMENTS.md)
 -   [Telemetry](./TELEMETRY.md)
 
-**Résumé exécutif**
+**Executive Summary**
 
-Text
+Texte
 
-Generated with [Ritr](https://app.rytr.me)
+Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - exigences
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Building Our Application
 
 Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+Voir[README.md](./400/README.md)
