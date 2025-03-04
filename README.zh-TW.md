@@ -7,22 +7,22 @@
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遙測](./TELEMETRY.md)
 
-**Executive Summary**
+**執行摘要**
 
 文字
 
 生成[ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100-簡介
 
 看[README.md](./100/README.md)
 
@@ -36,4 +36,4 @@
 
 ## 400-結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
