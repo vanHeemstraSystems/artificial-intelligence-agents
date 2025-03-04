@@ -2,7 +2,7 @@ Agents d'intelligence artificielle
 
 # Agents d'intelligence artificielle
 
-> Lisc
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -12,11 +12,11 @@ Agents d'intelligence artificielle
 -   [Images](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Sous-homme](./PODMAN.md)
--   [Références](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Télémétrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
@@ -30,7 +30,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
