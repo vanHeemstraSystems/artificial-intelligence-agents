@@ -1,4 +1,4 @@
-artificial-intelligence-agents
+kunstmatige intelligentie-agenten
 
 # Kunstmatige intelligentie -agenten
 
@@ -14,7 +14,7 @@ artificial-intelligence-agents
 -   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Uitvoerende samenvatting**
 
