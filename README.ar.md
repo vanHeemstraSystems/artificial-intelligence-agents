@@ -1,4 +1,4 @@
-وكيلات الاصطناعية
+artificial-intelligence-agents
 
 # وكلاء الذكاء الاصطناعي
 
