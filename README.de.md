@@ -14,7 +14,7 @@ künstliche Intelligenz-Agents
 -   [Subman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
 
@@ -22,7 +22,7 @@ Text
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
-## 100 - Einführung
+## 100 - Introduction
 
 Sehen[README.md](./100/README.md)
 
