@@ -13,10 +13,10 @@
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
