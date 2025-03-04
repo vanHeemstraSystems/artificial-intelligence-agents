@@ -1,4 +1,4 @@
-人工智能代理
+artificial-intelligence-agents
 
 # 人工智能代理
 
@@ -7,7 +7,7 @@
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
--   [孵化](./HATCH.md)
+-   [Hatch](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [nx](./NX.md)
@@ -20,7 +20,7 @@
 
 文本
 
-生成[ritr](https://app.rytr.me)
+Generated with [ritr](https://app.rytr.me)
 
 ## 100-简介
 
