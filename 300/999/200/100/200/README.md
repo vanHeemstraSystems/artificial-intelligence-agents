@@ -3,7 +3,7 @@
 1. **Create a new ActivePieces flow**:
    - Log into your ActivePieces account
    - Click "Create New" and select "Flow"
-   - Name it "DevOps Engineer AI Training"
+   - Name it "[DevOps Engineer AI Training](https://cloud.activepieces.com/projects/WxKLmS8Tt0m32IUaiUkkB/flows/hKbl55TX2O2Iv25TG0RJG)".
 
 2. **Add an AI integration**:
    - In your flow, add an AI step (OpenAI, Anthropic Claude, etc.)
